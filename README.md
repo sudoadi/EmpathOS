@@ -1,5 +1,5 @@
 # EmpathOS
-🌿 EmpathOS – A Mental Wellbeing Companion
+🌿 EmpathOS – Your Mental Wellbeing Companion
 
 EmpathOS is a modern mental health and emotional wellbeing app designed to help individuals navigate their inner world with clarity, compassion, and consistency.
 Built with empathy at its core, EmpathOS offers tools, reflections, and support systems that guide users toward their Optimal State—emotionally, mentally, and mindfully.
